@@ -62,12 +62,12 @@ python "Task 3.py"
 ---
 
 Main Branch:
-🔗 Main Branch – Project Overview
+🔗 [Main Branch – Project Overview](https://github.com/rishibhardwaj90/CODSOFT-Rishi/tree/main)
 
 Previous Branches:
-•	🔁 Task-1 – Titanic Survival Prediction
-•	🔁 Task-2 – Movie Rating Prediction
+* 🔁 [`Task-1`](https://github.com/rishibhardwaj90/CODSOFT-Rishi/tree/Task-1) – Titanic Survival Prediction
+* 🔁 [`Task-2`](https://github.com/rishibhardwaj90/CODSOFT-Rishi/tree/Task-2) – Movie Rating Prediction
 
 Next Branches:
-•	🔁 Task-4 – Sales Forecasting
-•	🔁 Task-5 – Credit Card Fraud Detection
+* 🔁 [`Task-4`](https://github.com/rishibhardwaj90/CODSOFT-Rishi/tree/Task-4) – Sales Forecasting
+* 🔁 [`Task-5`](https://github.com/rishibhardwaj90/CODSOFT-Rishi/tree/Task-5) – Credit Card Fraud Detection  
