@@ -68,3 +68,4 @@ Next Branches:
 * 🔁 [`Task-2`](https://github.com/rishibhardwaj90/CODSOFT-Rishi/tree/Task-2) – Titanic Prediction Model
 * 🔁 [`Task-3`](https://github.com/rishibhardwaj90/CODSOFT-Rishi/tree/Task-3) – Power BI Business Dashboard
 * 🔁 [`Task-4`](https://github.com/rishibhardwaj90/CODSOFT-Rishi/tree/Task-4) – Text Sentiment Classification
+* 🔁 [`Task-5`](https://github.com/rishibhardwaj90/CODSOFT-Rishi/tree/Task-5) – Credit Card Fraud Detection
