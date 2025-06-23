@@ -19,11 +19,11 @@ Each task is maintained in its **own dedicated branch**, and this main branch se
 ---
 
 ### 🔀 Branch-wise Organization:
-* 🔁 [`Task-1`](https://github.com/rishibhardwaj90/CODTECH-Rishi/tree/Task-1) – Titanic Survival Prediction
-* 🔁 [`Task-2`](https://github.com/rishibhardwaj90/CODTECH-Rishi/tree/Task-2) – Movie Rating Prediction
-* 🔁 [`Task-3`](https://github.com/rishibhardwaj90/CODTECH-Rishi/tree/Task-3) – Iris Flower Classification
-* 🔁 [`Task-4`](https://github.com/rishibhardwaj90/CODTECH-Rishi/tree/Task-4) – Sales Forecasting
-* 🔁 [`Task-5`](https://github.com/rishibhardwaj90/CODTECH-Rishi/tree/Task-5) – Credit Card Fraud Detection  
+* 🔁 [`Task-1`](https://github.com/rishibhardwaj90/CODSOFT-Rishi/tree/Task-1) – Titanic Survival Prediction
+* 🔁 [`Task-2`](https://github.com/rishibhardwaj90/CODSOFT-Rishi/tree/Task-2) – Movie Rating Prediction
+* 🔁 [`Task-3`](https://github.com/rishibhardwaj90/CODSOFT-Rishi/tree/Task-3) – Iris Flower Classification
+* 🔁 [`Task-4`](https://github.com/rishibhardwaj90/CODSOFT-Rishi/tree/Task-4) – Sales Forecasting
+* 🔁 [`Task-5`](https://github.com/rishibhardwaj90/CODSOFT-Rishi/tree/Task-5) – Credit Card Fraud Detection  
 > 📌 *Click on any task above to view the full implementation and results.*
 
 ---
