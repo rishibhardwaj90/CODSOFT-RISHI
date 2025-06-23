@@ -62,7 +62,7 @@ python "Task 2.py"
 ---
 
 Main Branch:
-🔗 Main Branch – Project Overview
+🔗 [Main Branch – Project Overview](https://github.com/rishibhardwaj90/CODSOFT-Rishi/tree/main)
 
 Previous Branch:
 * 🔁 [`Task-1`](https://github.com/rishibhardwaj90/CODSOFT-Rishi/tree/Task-1) – Titanic Survival Prediction
