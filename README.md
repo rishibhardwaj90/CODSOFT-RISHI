@@ -1,4 +1,4 @@
-## 💼 CODSOFT - INTERNSHIP TASKS - MACHINE LEARNING & DATA SCIENCE
+## 💼 MACHINE LEARNING & DATA SCIENCE
 
 This repository presents a collection of five diverse machine learning and data science projects, each focusing on a specific domain — from classification and regression to fraud detection.
 
