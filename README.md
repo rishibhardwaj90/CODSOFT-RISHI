@@ -62,7 +62,6 @@ python "Task 2.py"
 ---
 
 Main Branch:
-
 🔗 Main Branch – Project Overview
 
 Previous Branch:
