@@ -5,6 +5,7 @@ This project builds a machine learning model to predict passenger survival on th
 ---
 
 ### 📁 Repository Structure:
+```
 TASK_1/
 ├── titanic.csv # Dataset used for modelling
 ├── Task 1.py # Main Python script
@@ -14,6 +15,7 @@ TASK_1/
 ├── survival_by_class.png
 ├── age_distribution.png
 └── fare_distribution.png
+```
 
 ---
 
