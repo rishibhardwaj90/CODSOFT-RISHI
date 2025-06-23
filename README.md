@@ -54,7 +54,9 @@ python "Task 1.py"
 ---
 
 📈 Output:
+
 •	Plots will be saved inside the outputs_task1/ folder
+
 •	A processed CSV file op_task1.csv will contain cleaned data and predictions
 
 ---
