@@ -7,10 +7,10 @@ This project builds a regression model to predict IMDb ratings of Indian movies 
 ### 📁 Repository Structure:
 ```
 TASK_2/
-├── imdb_india.csv # Dataset used for modelling
-├── Task 2.py # Main Python script
-├── op_task2.csv # Output predictions or processed data
-└── outputs_task2/ # Visualizations and plots
+├── imdb_india.csv                                     # Dataset used for modelling
+├── Task 2.py                                          # Main Python script
+├── op_task2.csv                                       # Output predictions or processed data
+└── outputs_task2/                                     # Visualizations and plots
 ├── genre_rating_plot.png
 ├── director_rating_plot.png
 ├── actual_vs_predicted.png
