@@ -65,11 +65,12 @@ Main Branch:
 🔗 Main Branch – Project Overview
 
 Previous Branch:
-
-🔁 Task-1 – NYC Taxi Analysis
+* 🔁 [`Task-1`](https://github.com/rishibhardwaj90/CODSOFT-Rishi/tree/Task-1) – Titanic Survival Prediction
 
 Next Branches:
 
-🔁 Task-3 – Power BI Business Dashboard
+* 🔁 [`Task-3`](https://github.com/rishibhardwaj90/CODSOFT-Rishi/tree/Task-3) – Iris Flower Classification
 
-🔁 Task-4 – Text Sentiment Classification
+* 🔁 [`Task-4`](https://github.com/rishibhardwaj90/CODSOFT-Rishi/tree/Task-4) – Sales Forecasting
+
+* 🔁 [`Task-5`](https://github.com/rishibhardwaj90/CODSOFT-Rishi/tree/Task-5) – Credit Card Fraud Detection  
