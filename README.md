@@ -47,7 +47,9 @@ pip install pandas matplotlib seaborn scikit-learn
 1.	Clone the repository.
 2.	Navigate to the TASK_2/ directory.
 3.	Run the Python script:
+```bash
 python "Task 2.py"
+```
 
 ---
 
@@ -60,11 +62,15 @@ python "Task 2.py"
 ---
 
 Main Branch:
+
 🔗 Main Branch – Project Overview
 
 Previous Branch:
+
 🔁 Task-1 – NYC Taxi Analysis
 
 Next Branches:
+
 🔁 Task-3 – Power BI Business Dashboard
+
 🔁 Task-4 – Text Sentiment Classification
