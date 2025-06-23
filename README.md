@@ -38,7 +38,9 @@ Install dependencies using:
 ```bash
 pip install pandas matplotlib seaborn scikit-learn
 ```
-________________________________________
+
+---
+
 ▶️ How to Run:
 1.	Clone the repository.
 2.	Navigate to the TASK_1/ directory.
@@ -46,14 +48,19 @@ ________________________________________
 ```bash
 python "Task 1.py"
 ```
-________________________________________
+
+---
+
 📈 Output:
 •	Plots will be saved inside the outputs_task1/ folder
 •	A processed CSV file op_task1.csv will contain cleaned data and predictions
-________________________________________
-🔄 Related Branches:
-•	🔁 task2-movie-rating – Movie Rating Prediction
-•	🔁 task3-iris – Iris Flower Classification
-•	🔁 task4-sales – Sales Prediction
-•	🔁 task5-fraud – Credit Card Fraud Detection
-📌 Main Branch – Project Overview
+
+---
+
+Main Branch:
+🔗 [Main Branch – Project Overview](https://github.com/rishibhardwaj90/CODSOFT-Rishi/tree/main)
+
+Next Branches:
+* 🔁 [`Task-2`](https://github.com/rishibhardwaj90/CODSOFT-Rishi/tree/Task-2) – Titanic Prediction Model
+* 🔁 [`Task-3`](https://github.com/rishibhardwaj90/CODSOFT-Rishi/tree/Task-3) – Power BI Business Dashboard
+* 🔁 [`Task-4`](https://github.com/rishibhardwaj90/CODSOFT-Rishi/tree/Task-4) – Text Sentiment Classification
